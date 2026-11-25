@@ -1,0 +1,22 @@
+                                                 <====Example of input devices====>
+1)Key Board  (Both wire and wireless)            (used to type input and commands to pc )
+2)Mouse      (Both wire and wireless)            (used to point,click and navigate on screen )
+3)Scanner     (wired)                            (used to convert physical document into digital file )
+4)Micro Phone (Both wire and wireless)           (used to capture audio)
+5)Web Cam     ( wired)				 (used to capture photos and videos)
+                    
+                                                 <=====Example of output devices====>
+
+1)Monitor      (wired)                           (used to display visual output like image and text)
+2)Speaker      (Both wire and wireless)          (used to play audio)
+3)Printer      (wired)                           (used to digital file into physical document )
+4)Projector    (wired)                           (used to projects computer image on large screen)
+5)Headphones   (Both wire and wireless)          (used to listen audio privately)
+                        
+                                                 <=====Example of storage devices====>
+
+1)USB           (wireless)                       (used to transfer small files)
+2)CD            (wireless)                       (used to store media and software)
+3)Memorycard    (wireless)                       (used to store media)
+4)SSD           (wired)                          (high speed portable storage for largebackup)
+5)HDD           (wired                           (internal drive that store  the operating system)

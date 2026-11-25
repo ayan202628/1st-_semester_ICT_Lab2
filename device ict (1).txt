@@ -1,0 +1,40 @@
+ A.Learning::
+~~~~~~~~~~~~~~
+ 1)Online Classes
+      Use: Students attend classes online.
+      Advantage: Students can learn from home.
+      Disadvantage: Internet problems can disturb learning.
+ 2)Educational Videos
+      Use: Students watch videos to understand lessons.
+      Advantage: Makes learning easier.
+      Disadvantage: Students may waste time watching unrelated videos.
+B.Communication
+~~~~~~~~~~~~~~~~
+     1)Email
+    Use: Teachers send notes and assignments through email.
+    Advantage: Fast communication.
+    Disadvantage: Emails can contain spam.
+    2)Video Conferencing
+     Use: Teachers and students communicate online.
+     Advantage: Saves travelling time.
+     Disadvantage: Requires a good internet connection.
+C.Managment 
+~~~~~~~~~~~~~~~
+     1)Student Records
+     Use: Schools store student information digitally.
+     Advantage: Easy to find records.
+     Disadvantage: Data can be lost due to technical problems.
+     2)Online Attendance
+     Use: Teachers record students’ attendance digitally.
+     Advantage: Saves time.
+     Disadvantage: Technical errors may occur.
+D. Entertainment
+~~~~~~~~~~~~~~~~
+     1)Educational Games
+     Use: Students play learning games.
+     Advantage: Makes learning interesting.
+     Disadvantage: Can waste time.
+     2)Watching Movies
+     Use: Students watch educational movies.
+     Advantage: Provides knowledge in an interesting way.
+Disadvantage: Too much screen time can affect productivity.
